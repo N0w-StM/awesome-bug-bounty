@@ -61,475 +61,6 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [AntiHACK](https://www.antihack.me/)
 - [CESPPA](https://www.cesppa.com/)
 
-### Available Programs
-- [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
-- [99designs](https://hackerone.com/99designs)
-- [Abacus](https://bugcrowd.com/abacus)
-- [Acquia](mailto:security@acquia.com)
-- [ActiveCampaign](mailto:security@activecampaign.com)
-- [ActiveProspect](mailto:security@activeprospect.com)
-- [Adobe](https://hackerone.com/adobe)
-- [AeroFS](mailto:security@aerofs.com)
-- [Airbitz](https://cobalt.io/airbitz)
-- [Airbnb](https://hackerone.com/airbnb)
-- [Algolia](https://hackerone.com/algolia)
-- [Altervista](http://en.altervista.org/feedback.php?who=feedback)
-- [Altroconsumo](https://go.intigriti.com/altroconsumo)
-- [Amara](mailto:security@amara.org)
-- [Amazon Web Services](mailto:aws-security@amazon.com)
-- [Amazon.com](mailto:security@amazon.com)
-- [ANCILE Solutions Inc.](https://bugcrowd.com/ancile)
-- [Anghami](https://hackerone.com/anghami)
-- [ANXBTC](https://cobalt.io/anxbtc)
-- [Apache httpd](https://hackerone.com/ibb-apache)
-- [Appcelerator](mailto:Infosec@appcelerator.com)
-- [Apple](mailto:product-security@apple.com)
-- [Apptentive](https://www.apptentive.com/contact)
-- [Aptible](mailto:security@aptible.com)
-- [Ardour](http://tracker.ardour.org/my_view_page.php)
-- [Arkane](https://go.intigriti.com/arkanenetwork)
-- [ARM mbed](mailto:whitehat@polarssl.org)
-- [Asana](mailto:security@asana.com)
-- [ASP4all](mailto:support@asp4all.nl)
-- [AT&T](https://bugbounty.att.com/bugform.php)
-- [Atlassian](https://securitysd.atlassian.net/servicedesk/customer/portal/2)
-- [Attack-Secure](mailto:admin@attack-secure.com)
-- [Authy](mailto:security@authy.com)
-- [Automattic](https://hackerone.com/automattic)
-- [Avast!](mailto:bugs@avast.com)
-- [Avira](mailto:vulnerabilities@avira.com)
-- [AwardWallet](https://cobalt.io/awardwallet)
-- [Badoo](https://corp.badoo.com/en/security/#send_bid)
-- [Barracuda](https://bugcrowd.com/barracuda)
-- [Base](https://go.intigriti.com/base)
-- [Basecamp](mailto:security@basecamp.com)
-- [Beanstalk](https://wildbit.wufoo.com/forms/wildbit-security-response)
-- [BillGuard](https://cobalt.io/billguard)
-- [Billys Billing](https://cobalt.io/billys-billing)
-- [Binary.com](https://hackerone.com/binary)
-- [Binary.com Cashier](https://hackerone.com/binary_cashier)
-- [BitBandit.eu](https://cobalt.io/bitbandit-eu)
-- [Bitcasa](mailto:security@bitcasa.com)
-- [BitCasino](https://cobalt.io/bitcasino)
-- [BitGo](https://cobalt.io/bitgo)
-- [BitHealth](https://cobalt.io/bithealth)
-- [BitHunt](https://hackerone.com/bithunt)
-- [BitMEX](https://cobalt.io/bitmex)
-- [Bitoasis](https://cobalt.io/bitoasis)
-- [Bitpagos](https://cobalt.io/bitpagos)
-- [Bitrated](https://cobalt.io/bitrated)
-- [Bitreserve](https://cobalt.io/bitreserve)
-- [Bitspark](https://cobalt.io/bitspark)
-- [Bitwage](https://cobalt.io/bitwage)
-- [BitWall](mailto:request@bitwall.io)
-- [BitYes](https://cobalt.io/bityes)
-- [BlackBerry](https://global.blackberry.com/secure/report-an-issue/en.html)
-- [Blackboard](mailto:learnsecurity@blackboard.com)
-- [Blackphone](https://bugcrowd.com/blackphone)
-- [Blesta](mailto:security@blesta.com)
-- [Block.io](https://hackerone.com/blockio)
-- [Block.io, Inc.](https://cobalt.io/block-io-inc)
-- [Blockchain.info](https://cobalt.io/blockchain-info)
-- [BlockScore](https://cobalt.io/blockscore)
-- [Bookfresh](https://hackerone.com/bookfresh)
-- [Box](mailto:security-reports@box.com)
-- [Braintree](mailto:security@braintreepayments.com)
-- [Brussels Airlines](https://go.intigriti.com/brusselsairlines)
-- [BTC_sx](https://cobalt.io/btc-sx)
-- [Buffer](mailto:security@bufferapp.com)
-- [BX.in.th](https://cobalt.io/bx-in-th)
-- [C2FO](https://hackerone.com/c2fo)
-- [Campaign Monitor](https://help.campaignmonitor.com/contact)
-- [CARD.com](https://bugcrowd.com/card)
-- [Catchafire](https://cobalt.io/catchafire)
-- [Caviar](https://hackerone.com/caviar)
-- [CCBill](mailto:bugrewards@ccbill.com)
-- [CERT/CC](https://hackerone.com/cert)
-- [Certly](https://hackerone.com/certly)
-- [ChainPay](https://cobalt.io/chainpay)
-- [ChangeTip](https://cobalt.io/changetip)
-- [Chargify](https://bugcrowd.com/chargify)
-- [Chromium Project](https://code.google.com/p/chromium/issues/entry?template=Security%20Bug)
-- [Circle](https://cobalt.io/circle)
-- [CircleCI](mailto:security@circleci.com)
-- [Cisco](http://www.cisco.com/web/about/security/psirt/security_vulnerability_policy.html#roosfassv)
-- [ClickUp](https://clickup.com/bug-bounty)
-- [Clojars](mailto:contact@clojars.org)
-- [CloudFlare](https://hackerone.com/cloudflare)
-- [Cobalt](https://cobalt.io/cobalt)
-- [Code Climate](mailto:security@codeclimate.com)
-- [CodeIgniter](https://hackerone.com/codeigniter)
-- [CodePen](https://bugcrowd.com/codepen)
-- [Coin Republic](https://cobalt.io/coin-republic)
-- [Coin.Space](https://hackerone.com/coinspace)
-- [Coinage](https://cobalt.io/coinage)
-- [Coinbase](https://hackerone.com/coinbase)
-- [CoinDaddy](https://cobalt.io/coindaddy)
-- [Coinkite](mailto:feedback@coinkite.com?subject=%5BVulnerability%5D%20-%20)
-- [Coinport](https://cobalt.io/coinport)
-- [coins.ph](https://cobalt.io/coins-ph)
-- [Cointrader.net](https://cobalt.io/cointrader-net)
-- [Coinvoy](https://cobalt.io/coinvoy)
-- [Collishop](https://go.intigriti.com/collishop)
-- [Colruyt](https://go.intigriti.com/colruyt)
-- [Compose](mailto:security@compose.io)
-- [concrete5](https://hackerone.com/concrete5)
-- [Constant Contact](mailto:vulnerability@constantcontact.com)
-- [Counterparty](https://cobalt.io/counterparty)
-- [Coupa](mailto:security@coupa.com)
-- [Coursera](https://hackerone.com/coursera)
-- [cPanel](mailto:security@cpanel.net)
-- [cPaperless](mailto:support@cPaperless.com)
-- [Crix.io](https://cobalt.io/crixio)
-- [Cross Border Fines](https://go.intigriti.com/crossborderfines)
-- [CrowdShield](https://crowdshield.com/bug-bounty-list.php?bug_bounty_program=crowdshield)
-- [Cryptocat](https://github.com/cryptocat/cryptocat/issues)
-- [Cupcake](mailto:security@cupcake.io)
-- [CustomerInsight](mailto:admin@customerinsight.ca)
-- [Cylance](https://hackerone.com/cylance)
-- [Dato Capital](mailto:security%40datocapital.com)
-- [Detectify](mailto:disclosure@detectify.com)
-- [De Volkskrant](https://go.intigriti.com/devolkskrant)
-- [Delen Private Bank](https://go.intigriti.com/delen)
-- [DigitalOcean](mailto:security@digitalocean.com)
-- [DigitalSellz](https://hackerone.com/digitalsellz)
-- [Django](https://hackerone.com/django)
-- [Doorkeeper](mailto:info@doorkeeper.jp)
-- [DoSomething](https://cobalt.io/dosomething)
-- [DPD](mailto:security@dpd.zendesk.com)
-- [Dragon King](https://hackenproof.com/neverdie/dragon-king)
-- [Dreambaby](https://go.intigriti.com/dreamland)
-- [Dreamland](https://go.intigriti.com/dream)
-- [Dropbox](https://hackerone.com/dropbox)
-- [Dropbox Acquisitions](https://hackerone.com/dropbox-acquisitions)
-- [Drupal](https://www.drupal.org/node/101494)
-- [eBay](http://pages.ebay.com/securitycenter/Researchers.html)
-- [Eclipse](mailto:security@eclipse.org)
-- [eHealth Hub VZN KUL](https://go.intigriti.com/ehealthhubvznkul)
-- [EMC](mailto:security_alert@emc.com)
-- [Enano](mailto:security@enanocms.org)
-- [Engine Yard](mailto:security@engineyard.com)
-- [Envoy](https://hackerone.com/envoy)
-- [Eobot](https://cobalt.io/eobot)
-- [EthnoHub](mailto:security@ethnohub.com)
-- [Etsy](https://www.etsy.com/bounty)
-- [EVE](mailto:security@ccpgames.com)
-- [Event Espresso](http://eventespresso.com/report-a-security-vulnerability)
-- [Everitoken](https://hackenproof.com/everitoken/everitoken-blockchain)
-- [Evernote](mailto:security@evernote.com)
-- [EURid](https://go.intigriti.com/eurid)
-- [Expatistan](mailto:gerardo@expatistan.com)
-- [ExpressionEngine](https://hackerone.com/expressionengine)
-- [Ezbob](https://cobalt.io/ezbob)
-- [Facebook](https://www.facebook.com/whitehat)
-- [Faceless](https://hackerone.com/faceless)
-- [Factlink](https://hackerone.com/factlink)
-- [FanFootage](https://hackerone.com/fanfootage)
-- [FastSlots](https://cobalt.io/fastslots)
-- [Flash](https://hackerone.com/flash)
-- [Flood](mailto:support@flood.io)
-- [Flow Dock](mailto:security@flowdock.com)
-- [Flox](https://hackerone.com/flox)
-- [Fluxiom](mailto:security@fluxiom.com)
-- [Fog Creek](http://www.fogcreek.com/contact)
-- [FormAssembly](mailto:security@formassembly.com)
-- [Founder Bliss](https://cobalt.io/founder-bliss)
-- [Foursquare](mailto:security@foursquare.com)
-- [Freelancer](mailto:security-reporting@freelancer.com)
-- [Gallery](mailto:security@galleryproject.org)
-- [Gamma](mailto:security-alert@intergamma.nl)
-- [Gemfury](mailto:security@gemfury.com)
-- [General Motors](https://hackerone.com/gm)
-- [GhostMail](https://hackerone.com/gmguys)
-- [GitHub](https://bounty.github.com/submit-a-vulnerability.html)
-- [GitLab](https://hackerone.com/gitlab)
-- [GlassWire](https://hackerone.com/glasswire)
-- [Gliph](mailto:security@gli.ph)
-- [GlobaLeaks](https://hackerone.com/globaleaks)
-- [Google PRP](mailto:security-patches@google.com)
-- [Google VRP](https://www.google.com/about/appsecurity/reward-program/index.html)
-- [Grammarly](https://hackerone.com/grammarly)
-- [Gratipay](https://hackerone.com/gratipay)
-- [GreenAddress](https://cobalt.io/greenaddress)
-- [Greenhouse.io](https://hackerone.com/greenhouse)
-- [Grok Learning](mailto:security@groklearning.com)
-- [HackenProof](https://hackenproof.com/hacken/hackenproof)
-- [HackerOne](https://hackerone.com/security)
-- [Harmony](mailto:security@collectiveidea.com)
-- [Heroku](https://bugcrowd.com/heroku)
-- [Hex-Rays](mailto:bugbounty@hex-rays.com)
-- [Hive Wallet](https://cobalt.io/hive-wallet)
-- [Hootsuite](mailto:security@hootsuite.com)
-- [HTC](mailto:security@htc.com)
-- [Huawei](mailto:psirt@huawei.com)
-- [Hubdia](https://hackerone.com/hubdia)
-- [Humble Bundle](https://bugcrowd.com/humblebundle)
-- [IAM KU Leuven](https://go.intigriti.com/kuleuvenlogin)
-- [Ian Dunn](https://hackerone.com/iandunn-projects)
-- [IBM](https://www.ibm.com/scripts/contact/contact/us/en/security_vulnerabilities)
-- [ICEcoder](https://bugcrowd.com/icecoder)
-- [Iconfinder](mailto:support@iconfinder.com)
-- [Ifixit](mailto:security@ifixit.com)
-- [Imgur](https://hackerone.com/imgur)
-- [ImpressPages](https://cobalt.io/impresspages)
-- [Indeed](https://bugcrowd.com/indeed)
-- [Independent Reserve](https://cobalt.io/independent-reserve)
-- [Informatica](https://hackerone.com/informatica)
-- [IntegraXor](http://www.integraxor.com/support.html)
-- [Internetwache](mailto:security@internetwache.org)
-- [InVision](https://hackerone.com/invision)
-- [IRCCloud](https://hackerone.com/irccloud)
-- [itBit Exchange](https://hackerone.com/itbit)
-- [ITRP](mailto:security@itrp.com)
-- [itsme](https://go.intigriti.com/itsme)
-- [joola.io](https://hackerone.com/joola-io)
-- [Joomla](http://vel.joomla.org/submit-vel)
-- [JRuby](mailto:security@jruby.org)
-- [jsDelivr](https://hackerone.com/jsdelivr)
-- [Juniper](mailto:sirt@juniper.net)
-- [Kadira](https://hackerone.com/kadira)
-- [Kaneva](mailto:security@kaneva.com)
-- [Kayako](http://my.kayako.com/Tickets/Submit)
-- [Kenna](https://bugcrowd.com/riskio)
-- [Keybase](https://hackerone.com/keybase)
-- [Khan Academy](https://hackerone.com/khanacademy)
-- [SKB Kontur](https://kontur.ru/.well-known/security.txt)
-- [Kraken](mailto:bugbounty@kraken.com)
-- [Kinepolis](https://go.intigriti.com/kinepolis)
-- [Kuna](https://hackenproof.com/kuna/kuna-crypto-exchange)
-- [Lancor Income](https://cobalt.io/lancor-income)
-- [LastPass](mailto:security@lastpass.com)
-- [LaunchKey](mailto:security@launchkey.com)
-- [Lean Testing](https://hackerone.com/leantesting)
-- [Librato](mailto:security@librato.com)
-- [LibSass](https://hackerone.com/libsass)
-- [Liferay](mailto:security@liferay.com)
-- [Line](https://bugbounty.linecorp.com/en/)
-- [LinkedIn](mailto:security@linkedin.com)
-- [LiveEnsure](http://www.liveensure.com/contact.php)
-- [LocalBitcoins](https://cobalt.io/localbitcoins)
-- [Localize](https://hackerone.com/localize)
-- [Logentries](mailto:security@logentries.com)
-- [Lookout](mailto:security@lookout.com)
-- [Magento](mailto:security@magento.com)
-- [MAGIX](mailto:security@magix.net)
-- [Mahara](mailto:security@mahara.org)
-- [MaiCoin](https://cobalt.io/maicoin)
-- [Mail.Ru](https://hackerone.com/mailru)
-- [Mailbird](https://cobalt.io/mailbird)
-- [MailChimp](http://mailchimp.com/about/security-response/)
-- [ManageBGL](https://cobalt.io/managebgl)
-- [ManageWP](mailto:security@managewp.com)
-- [MapLogin](https://hackerone.com/maplogin)
-- [Marietje Schaake](https://go.intigriti.com/marietjeschaake)
-- [Marktplatts](https://hackerone.com/marktplaats)
-- [Mavenlink](https://hackerone.com/mavenlink)
-- [Maximum](https://hackerone.com/maximum)
-- [MCProHosting](https://bugcrowd.com/mcprohostings)
-- [MEGA](mailto:bugs@mega.co.nz)
-- [Mercury](https://cobalt.io/mercury)
-- [Meteor](https://hackerone.com/meteor)
-- [meXBT](https://cobalt.io/mexbt)
-- [Microsoft](mailto:secure@microsoft.com)
-- [Mimecast](mailto:disclosure@mimecast.com)
-- [Mobile Vikings](https://go.intigriti.com/mobilevikings)
-- [Mobile Vikings](https://hackerone.com/mobilevikings)
-- [Modus CSR](mailto:security@moduscsr.com)
-- [MoneyBird](mailto:security@moneybird.com)
-- [MoneyStream](https://hackerone.com/moneystream)
-- [Moodle](mailto:security@moodle.org)
-- [Motorola Solutions](mailto:security@motorolasolutions.com)
-- [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/)
-- [mynxt.info](https://cobalt.io/mynxt-info)
-- [NCSC](mailto:cert@ncsc.nl)
-- [Nearby Live](https://hackerone.com/nearby)
-- [Nest](mailto:security@nest.com)
-- [Netflix](mailto:security-report@netflix.com)
-- [Neverdie Smart Contract](https://hackenproof.com/neverdie/neverdie-smart-contract)
-- [Neverdie Web](https://hackenproof.com/neverdie/neverdie-web)
-- [Nexmo](https://cobalt.io/nexmo)
-- [Nexuzhealth](https://go.intigriti.com/nexushealth)
-- [Nexuzhealth Web PACS](https://go.intigriti.com/nexuzhealthwebpacs)
-- [Nginx](https://hackerone.com/ibb-nginx)
-- [Nitrous](mailto:security@nitrous.io)
-- [Nokia Networks](mailto:security-alert@nokia.com)
-- [NoPass](https://cobalt.io/nopass)
-- [NZRS](mailto:security@nzrs.net.nz)
-- [Offensive Security](mailto:security@offensive-security.com)
-- [ok.ru](https://hackerone.com/ok)
-- [OKCoin](https://cobalt.io/okcoin)
-- [OkCupid](https://hackerone.com/okcupid)
-- [Olark](mailto:security@olark.com)
-- [OneSpan Mobile](https://go.intigriti.com/vascomobileproducts)
-- [OneSpan Server Products](https://go.intigriti.com/vascoserver-sideproducts)
-- [Opal Cryptocurrency](https://cobalt.io/opal-cryptocurrency)
-- [Openfolio](https://hackerone.com/openfolio)
-- [OpenSSL](https://hackerone.com/ibb-openssl)
-- [OpenStack](https://security.openstack.org/#how-to-report-security-issues-to-openstack)
-- [OpenText](mailto:otst@opentext.com)
-- [Opera](https://bugs.opera.com/wizarddesktop)
-- [Optimizely](https://cobalt.io/optimizely)
-- [Oracle](mailto:secalert_us@oracle.com)
-- [ownCloud](https://hackerone.com/owncloud)
-- [PagerDuty](mailto:security@pagerduty.com)
-- [Panasonic Avionics](https://hackerone.com/panasonic-aero)
-- [Pantheon](https://bugcrowd.com/pantheon)
-- [Panzura](mailto:security@panzura.com)
-- [Paragon Initiative Enterprises](https://hackerone.com/paragonie)
-- [Paychoice](mailto:security@paychoice.com.au)
-- [PayMill](mailto:security@paymill.com)
-- [PayPal](mailto:https://www.paypal.com/bugbounty/register)
-- [Paytm](https://bugbounty.paytm.com)
-- [Perl](https://hackerone.com/ibb-perl)
-- [Phabricator](https://hackerone.com/phabricator)
-- [PHP](https://bugs.php.net/report.php)
-- [Pidgin](mailto:security@pidgin.im)
-- [PikaPay](mailto:security@pikapay.com)
-- [PinoyHackNews](mailto:admin@pinoyhacknews.com)
-- [Pinterest](https://bugcrowd.com/pinterest)
-- [Piwik Open Source Analytics](https://cobalt.io/piwik-open-source-analytics)
-- [Plone](mailto:security@plone.org)
-- [Pocket](mailto:security@getpocket.com)
-- [Poloniex](https://cobalt.io/poloniex)
-- [Postmark](https://wildbit.wufoo.com/forms/wildbit-security-response)
-- [Prezi](mailto:security-bug-bounty@prezi.com)
-- [Projectplace](https://hackerone.com/projectplace)
-- [PullReview](mailto:security@pullreview.com)
-- [Puppet labs](mailto:security@puppetlabs.com)
-- [PureVPN](https://bugcrowd.com/purevpn)
-- [Python](mailto:security@python.org)
-- [QIWI](https://hackerone.com/qiwi)
-- [Quadriga CX](https://cobalt.io/quadriga-cx)
-- [QuickBT](https://cobalt.io/quickbt)
-- [Quora](https://hackerone.com/quora)
-- [Rackspace](mailto:security@rackspace.com)
-- [Rdbhost_service](https://cobalt.io/rdbhost-service)
-- [Red Hat](mailto:site-security@redhat.com)
-- [Reddit](mailto:security@reddit.com)
-- [Relaso](mailto:security@relaso.com)
-- [RelateIQ](mailto:security@relateiq.com)
-- [Release Wire](http://www.releasewire.com/about/contact)
-- [Respondly](https://hackerone.com/respondly)
-- [Revive Adserver](https://hackerone.com/revive_adserver)
-- [Ribose](https://www.ribose.com/feedbacks/security)
-- [Ripio](https://cobalt.io/ripio)
-- [Ripple](mailto:bugs@ripple.com)
-- [Riskalyze](mailto:security@riskalyze.com)
-- [Romit](https://hackerone.com/romit)
-- [Ruby](mailto:security@ruby-lang.org)
-- [Ruby on Rails](https://hackerone.com/rails)
-- [Salesforce](mailto:security@salesforce.com)
-- [Samsung TV](https://samsungtvbounty.com/ReportBug.aspx)
-- [Sandbox Escape](https://hackerone.com/sandbox)
-- [SAP](mailto:secure@sap.com)
-- [Schuberg Philis](mailto:abuse@schubergphilis.com)
-- [Scorpion Software](mailto:security@scorpionsoft.com)
-- [Secret](https://hackerone.com/secret)
-- [Secure Works](mailto:security@secureworks.com)
-- [Sellfy](http://docs.sellfy.com/contact)
-- [Sentiance](https://go.intigriti.com/sentiance)
-- [ServiceRocket](https://bugcrowd.com/servicerocket)
-- [ShareLaTeX](mailto:team@sharelatex.com)
-- [Sherpany](https://cobalt.io/sherpany)
-- [Shopify](https://hackerone.com/shopify)
-- [Sifter](mailto:security@sifterapp.com?subject=%27Security%20Vulnerability%20Report%27)
-- [Silent Circle](https://bugcrowd.com/silentcircle)
-- [Simple](https://bugcrowd.com/simple)
-- [SiteGround](mailto:responsible-disclosure@siteground.com)
-- [Skoodat](mailto:security@skoodat.com)
-- [Skrill](https://cobalt.io/skrill)
-- [Skyscanner](https://bugcrowd.com/skyscanner)
-- [Slack](https://hackerone.com/slack)
-- [Snapchat](https://hackerone.com/snapchat)
-- [Snappy](mailto:security@userscape.com)
-- [Sonatype](mailto:security@sonatype.com)
-- [Sony](https://secure.sony.net/form)
-- [SoundCloud](https://scsecurity.freshdesk.com/support/tickets/new)
-- [Spaargids](https://go.intigriti.com/spaargids)
-- [SpectroCoin](https://cobalt.io/spectrocoin)
-- [Spendbitcoins](https://cobalt.io/spendbitcoins)
-- [SplashID](https://bugcrowd.com/splashid)
-- [Splitwise](mailto:security@splitwise.com)
-- [Spotify](mailto:security@spotify.com)
-- [Sprout Social](mailto:security@sproutsocial.com)
-- [Square](https://hackerone.com/square)
-- [Square Open Source](https://hackerone.com/square-open-source)
-- [StatusPage](https://bugcrowd.com/sunrise)
-- [StopTheHacker](https://hackerone.com/stopthehacker)
-- [Student Assessment System](https://go.intigriti.com/printscan)
-- [Studio 100](https://go.intigriti.com/studio100)
-- [Subledger](https://cobalt.io/subledger)
-- [Subrosa](https://cobalt.io/subrosa)
-- [Sucuri](https://hackerone.com/sucuri)
-- [Suivo](https://go.intigriti.com/suivoweb)
-- [Symantec](mailto:secure@symantec.com)
-- [Taptalk](https://hackerone.com/taptalk)
-- [Tarsnap](mailto:cperciva@tarsnap.com)
-- [TeamUnify](mailto:security@teamunify.com)
-- [Tele2](mailto:beveiligingsmeldpunt@tele2.com)
-- [Telekom](mailto:cert@telekom.de?subject=bug_bounty)
-- [Telenet](https://go.intigriti.com/telenet)
-- [Test-Aankoop](https://go.intigriti.com/testaankoop)
-- [The Internet](https://hackerone.com/internet)
-- [The Mastercoin Foundation](https://cobalt.io/the-mastercoin-foundation)
-- [ThisData](https://hackerone.com/thisdata)
-- [TimeTrex](https://cobalt.io/timetrex)
-- [ToyTalk](https://hackerone.com/toytalk)
-- [Trello](https://hackerone.com/trello)
-- [Tuenti](http://corporate.tuenti.com/en/contact/security)
-- [Tweakers](https://go.intigriti.com/tweakers)
-- [Twilio](https://bugcrowd.com/twilio)
-- [Twitch](mailto:security@twitch.tv)
-- [Twitter](https://hackerone.com/twitter)
-- [Uber](mailto:security-abuse@uber.com)
-- [Ubiquiti Networks](https://hackerone.com/ubnt)
-- [Unitag](mailto:security@unitag.io)
-- [Urban Dictionary](https://hackerone.com/urbandictionary)
-- [Uzbey](https://hackerone.com/uzbey)
-- [Valve Software](mailto:security@valvesoftware.com)
-- [VeChainThor](https://hackenproof.com/vechain/vechainthor)
-- [VeChainThor Wallet](https://hackenproof.com/vechain/vechainthor-wallet)
-- [VCE](mailto:security-alerts@vce.com)
-- [Venmo](mailto:security@venmo.com)
-- [Version Cake](https://hackerone.com/versioncake)
-- [Viadeo](mailto:security@viadeo.com)
-- [Vimeo](https://hackerone.com/vimeo)
-- [VK.com](https://hackerone.com/vkcom)
-- [Volusion](https://bugcrowd.com/volusion)
-- [VPNSox](https://cobalt.io/vpnsox)
-- [vulners.com](https://hackerone.com/vulnerscom)
-- [Vultr](https://www.vultr.com/bug-bounty/)
-- [Webconverger](mailto:security@webconverger.com)
-- [Websecurify](http://campaigns.websecurify.com/money-for-bugs/#contact)
-- [Weebly](https://cobalt.io/weebly)
-- [WePay](https://hackerone.com/wepay)
-- [Whisper](https://hackerone.com/whisper)
-- [WHMCS](https://bugcrowd.com/whmcs)
-- [Windthorst ISD](http://www.windthorstisd.net/BugReport.cfm)
-- [withinsecurity](https://hackerone.com/withinsecurity)
-- [WizeHive](mailto:security@wizehive.com)
-- [Woorank](https://go.intigriti.com/woorank)
-- [WordPoints](https://hackerone.com/wordpoints)
-- [Wordware](https://cobalt.io/wordware)
-- [WP API](https://hackerone.com/wp-api)
-- [Xen Project](mailto:security@xenproject.org)
-- [Xmarks](mailto:security@lastpass.com)
-- [Yahoo](https://hackerone.com/yahoo)
-- [Yandex](https://yandex.com/bugbounty/report)
-- [Yanomo](mailto:support@yanomo.com)
-- [Yesware](mailto:security@yesware.com)
-- [Zapier](mailto:security@zapier.com)
-- [Zaption](https://hackerone.com/zaption)
-- [ZenCash](mailto:security@zencash.com)
-- [Zendesk](https://hackerone.com/zendesk)
-- [Zetetic](mailto:support@zetetic.net)
-- [Ziggo](mailto:security@ziggo.nl)
-- [Zimbra](mailto:security@zimbra.com)
-- [Zoho](https://bugbounty.zoho.com/bb/info) 
-- [Zomato](https://hackerone.com/zomato)
-- [Zopim](https://hackerone.com/zopim)
-- [Zynga](mailto:whitehat@zynga.com)
-
 <h1 align="center">
   <b>Awesome Hacker Search Engines</b> <img src="https://raw.githubusercontent.com/edoardottt/images/main/awesome-hacker-search-engines/awesome.svg"/>
 </h1>
@@ -1193,6 +724,589 @@ These can be useful for osint and social engineering.
 <!-- markdown-link-check-enable -->
 
 ---
+# Awesome Bug Bounty Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> A curated list of various bug bounty tools
+
+## Contents
+
+- [Recon](#Recon)
+    - [Subdomain Enumeration](#Subdomain-Enumeration)
+    - [Port Scanning](#Port-Scanning)
+    - [Screenshots](#Screenshots)
+    - [Technologies](#Technologies)
+    - [Content Discovery](#Content-Discovery)
+    - [Content Filtering](#Content-Filtering)
+    - [Links](#Links)
+    - [Parameters](#Parameters)
+    - [Fuzzing](#Fuzzing)
+
+- [Exploitation](#Exploitation)
+    - [Command Injection](#Command-Injection)
+    - [CORS Misconfiguration](#CORS-Misconfiguration)
+    - [CRLF Injection](#CRLF-Injection)
+    - [CSRF Injection](#CSRF-Injection)
+    - [Directory Traversal](#Directory-Traversal)
+    - [File Inclusion](#File-Inclusion)
+    - [GraphQL Injection](#GraphQL-Injection)
+    - [Header Injection](#Header-Injection)
+    - [Insecure Deserialization](#Insecure-Deserialization)
+    - [Insecure Direct Object References](#Insecure-Direct-Object-References)
+    - [Open Redirect](#Open-Redirect)
+    - [Race Condition](#Race-Condition)
+    - [Request Smuggling](#Request-Smuggling)
+    - [Server Side Request Forgery](#Server-Side-Request-Forgery)
+    - [SQL Injection](#SQL-Injection)
+    - [XSS Injection](#XSS-Injection)
+    - [XXE Injection](#XXE-Injection)
+
+- [Miscellaneous](#Miscellaneous)
+    - [Passwords](#Passwords)
+    - [Secrets](#Secrets)
+    - [Git](#Git)
+    - [Buckets](#Buckets)
+    - [CMS](#CMS)
+    - [JSON Web Token](#JSON-Web-Token)
+    - [postMessage](#postMessage)
+    - [Subdomain Takeover](#Subdomain-Takeover)
+    - [Vulnerability Scanners](#Vulnerability-Scanners)
+    - [Forbidden Bypass](#Forbidden-Bypass)
+    - [Permutation](#Permutation)
+    - [Web Proxy and Traffic Interception](#Web-Proxy-and-Traffic-Interception)
+    - [Origin IP](#Origin-IP)
+    - [Useful](#Useful)
+    - [Uncategorized](#Uncategorized)
+
+---
+
+## Recon
+
+### Subdomain Enumeration
+
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+- [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
+- [Findomain](https://github.com/Findomain/Findomain) - The fastest and cross-platform subdomain enumerator, do not waste your time.
+- [Sudomy](https://github.com/Screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
+- [chaos-client](https://github.com/projectdiscovery/chaos-client) - Go client to communicate with Chaos DNS API.
+- [domained](https://github.com/TypeError/domained) - Multi Tool Subdomain Enumeration
+- [bugcrowd-levelup-subdomain-enumeration](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration) - This repository contains all the material from the talk "Esoteric sub-domain enumeration techniques" given at Bugcrowd LevelUp 2017 virtual conference
+- [shuffledns](https://github.com/projectdiscovery/shuffledns) - shuffleDNS is a wrapper around massdns written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output…
+- [puredns](https://github.com/d3mondev/puredns) - Fast domain resolver and subdomain bruteforcing with accurate wildcard filtering with wildcard(*)
+- [censys-subdomain-finder](https://github.com/christophetd/censys-subdomain-finder) - Perform subdomain enumeration using the certificate transparency logs from Censys.
+- [Turbolist3r](https://github.com/fleetcaptain/Turbolist3r) - Subdomain enumeration tool with analysis features for discovered domains
+- [censys-enumeration](https://github.com/0xbharath/censys-enumeration) - A script to extract subdomains/emails for a given domain using SSL/TLS certificate dataset on Censys
+- [tugarecon](https://github.com/LordNeoStark/tugarecon) - Fast subdomains enumeration tool for penetration testers.
+- [as3nt](https://github.com/cinerieus/as3nt) - Another Subdomain ENumeration Tool
+- [Subra](https://github.com/si9int/Subra) - A Web-UI for subdomain enumeration (subfinder)
+- [Substr3am](https://github.com/nexxai/Substr3am) - Passive reconnaissance/enumeration of interesting targets by watching for SSL certificates being issued
+- [domain](https://github.com/jhaddix/domain/) - enumall.py Setup script for Regon-ng
+- [altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them
+- [brutesubs](https://github.com/anshumanbh/brutesubs) - An automation framework for running multiple open sourced subdomain bruteforcing tools (in parallel) using your own wordlists via Docker Compose
+- [dns-parallel-prober](https://github.com/lorenzog/dns-parallel-prober) - his is a parallelised domain name prober to find as many subdomains of a given domain as fast as possible.
+- [dnscan](https://github.com/rbsec/dnscan) - dnscan is a python wordlist-based DNS subdomain scanner.
+- [knock](https://github.com/guelfoweb/knock) - Knockpy is a python tool designed to enumerate subdomains on a target domain through a wordlist.
+- [hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
+- [dnsx](https://github.com/projectdiscovery/dnsx) - Dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
+- [subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites.
+- [assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
+- [crtndstry](https://github.com/nahamsec/crtndstry) - Yet another subdomain finder
+- [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups
+- [scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
+- [sub3suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for subdomain enumeration, intelligence gathering and attack surface mapping.
+- [cero](https://github.com/glebarez/cero) - Scrape domain names from SSL certificates of arbitrary hosts 
+- [shosubgo](https://github.com/incogbyte/shosubgo) - Small tool to Grab subdomains using Shodan api
+- [haktrails](https://github.com/hakluke/haktrails) - Golang client for querying SecurityTrails API data
+- [bbot](https://github.com/blacklanternsecurity/bbot) - A recursive internet scanner for hackers
+- [crt.go](https://github.com/TaurusOmar/crt.sh) - This Go script simplifies the process of efficiently saving and analyzing subdomain output from the crt.sh website.
+- [github-subdomains](https://github.com/gwen001/github-subdomains) - This Go tool performs searches on GitHub and parses the results to find subdomains of a given domain.
+- [gitlab-subdomains](https://github.com/gwen001/gitlab-subdomains) - This Go tool performs searches on GitLab and parses the results to find subdomains of a given domain.
+
+### Port Scanning
+
+- [masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- [RustScan](https://github.com/RustScan/RustScan) - The Modern Port Scanner
+- [naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity.
+- [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
+- [sandmap](https://github.com/trimstray/sandmap) - Nmap on steroids. Simple CLI with the ability to run pure Nmap engine, 31 modules with 459 scan profiles.
+- [ScanCannon](https://github.com/johnnyxmas/ScanCannon) - Combines the speed of masscan with the reliability and detailed enumeration of nmap
+- [nrich](https://gitlab.com/shodan-public/nrich) - A command-line tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities.
+
+### Screenshots
+
+- [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [aquatone](https://github.com/michenriksen/aquatone) - Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.
+- [screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
+- [gowitness](https://github.com/sensepost/gowitness) - gowitness - a golang, web screenshot utility using Chrome Headless
+- [WitnessMe](https://github.com/byt3bl33d3r/WitnessMe) - Web Inventory tool, takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and provides some extra bells & whistles to make life easier.
+- [eyeballer](https://github.com/BishopFox/eyeballer) - Convolutional neural network for analyzing pentest screenshots
+- [scrying](https://github.com/nccgroup/scrying) - A tool for collecting RDP, web and VNC screenshots all in one place
+- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [httpscreenshot](https://github.com/breenmachine/httpscreenshot/) - HTTPScreenshot is a tool for grabbing screenshots and HTML of large numbers of websites.
+
+### Technologies
+
+- [wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
+- [webanalyze](https://github.com/rverton/webanalyze) - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
+- [python-builtwith](https://github.com/claymation/python-builtwith) - BuiltWith API client
+- [whatweb](https://github.com/urbanadventurer/whatweb) - Next generation web scanner
+- [retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities
+- [httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+- [fingerprintx](https://github.com/praetorian-inc/fingerprintx) - fingerprintx is a standalone utility for service discovery on open ports that works well with other popular bug bounty command line tools.
+- [graphw00f](https://github.com/dolevf/graphw00f) - graphw00f is GraphQL Server Engine Fingerprinting utility for software security professionals looking to learn more about what technology is behind a given GraphQL endpoint.
+- [wafw00f](https://github.com/EnableSecurity/wafw00f) - wafw00f allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
+- [cdncheck](https://github.com/projectdiscovery/cdncheck) - cdncheck is a tool for identifying the technology associated with dns / ip network addresses.
+
+### Content Discovery
+
+- [gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
+- [recursebuster](https://github.com/C-Sto/recursebuster) - rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments
+- [feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust.
+- [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [dirsearch](https://github.com/evilsocket/dirsearch) - A Go implementation of dirsearch.
+- [filebuster](https://github.com/henshin/filebuster) - An extremely fast and flexible web fuzzer
+- [dirstalk](https://github.com/stefanoj3/dirstalk) - Modern alternative to dirbuster/dirb
+- [dirbuster-ng](https://github.com/digination/dirbuster-ng) - dirbuster-ng is C CLI implementation of the Java dirbuster tool
+- [gospider](https://github.com/jaeles-project/gospider) - Gospider - Fast web spider written in Go
+- [hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [crawley](https://github.com/s0rg/crawley) - fast, feature-rich unix-way web scraper/crawler written in Golang.
+- [katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework
+- [kiterunner](https://github.com/assetnote/kiterunner) - Fast API endpoint bruteforcer and content discovery tool for modern web applications.
+
+### Content Filtering
+- [Hacker-Scoper](https://github.com/ItsIgnacioPortal/Hacker-Scoper) - CLI tool for filtering a mixed list of targets (URLs/IPs) according to the bug-bounty program's scope. The scope can be supplied manually, or it can also be detected automatically by just giving hacker-scoper the name of the targeted company. Hacker-Scoper supports IPs, URLs, wildcards, CIDR ranges, Nmap octet ranges, and even full Regex scopes.
+
+### Links
+
+- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files
+- [JS-Scan](https://github.com/zseano/JS-Scan) - a .js scanner, built in php. designed to scrape urls and other info
+- [LinksDumper](https://github.com/arbazkiraak/LinksDumper) - Extract (links/possible endpoints) from responses & filter them via decoding/sorting
+- [GoLinkFinder](https://github.com/0xsha/GoLinkFinder) - A fast and minimal JS endpoint extractor
+- [BurpJSLinkFinder](https://github.com/InitRoot/BurpJSLinkFinder) - Burp Extension for a passive scanning JS files for endpoint links.
+- [urlgrab](https://github.com/IAmStoxe/urlgrab) - A golang utility to spider through a website searching for additional links.
+- [waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
+- [gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [getJS](https://github.com/003random/getJS) -  A tool to fastly get all javascript sources/files
+- [linx](https://github.com/riza/linx) - Reveals invisible links within JavaScript files
+- [waymore](https://github.com/xnl-h4ck3r/waymore) -  Find way more from the Wayback Machine!
+- [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder) -  A python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target 
+- [URLFinder](https://github.com/projectdiscovery/urlfinder) - A high-speed tool for passively gathering URLs, optimized for efficient web asset discovery without active scanning.
+- [github-endpoints](https://github.com/gwen001/github-endpoints) - This Go tool performs searches on GitHub and parses the results to find endpoints of a given domain.
+- [jsleak](https://github.com/byt3hx/jsleak) - jsleak is a tool to find secret , paths or links in JavaScript files or source code.
+- [jsfinder](https://github.com/kacakb/jsfinder) - A tool that scans web pages to find JavaScript file URLs linked in the HTML source code.
+- [jsluice](https://github.com/BishopFox/jsluice) - This tool extracts URLs, paths, secrets, and other interesting bits from JavaScript files. Values are extracted based not just on how they look, but also based on how they are used.
+
+### Parameters
+
+- [parameth](https://github.com/maK-/parameth) - This tool can be used to brute discover GET and POST parameters
+- [param-miner](https://github.com/PortSwigger/param-miner) - This extension identifies hidden, unlinked parameters. It's particularly useful for finding web cache poisoning vulnerabilities.
+- [ParamPamPam](https://github.com/Bo0oM/ParamPamPam) - This tool for brute discover GET and POST parameters.
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider) - Mining parameters from dark corners of Web Archives.
+- [x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite written in Rust.
+
+### Fuzzing
+
+- [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
+- [ffuf](https://github.com/ffuf/ffuf) -  Fast web fuzzer written in Go
+- [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
+- [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+- [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
+- [fuzzilli](https://github.com/googleprojectzero/fuzzilli) - A JavaScript Engine Fuzzer
+- [fuzzapi](https://github.com/Fuzzapi/fuzzapi) - Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem
+- [qsfuzz](https://github.com/ameenmaali/qsfuzz) - qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities.
+- [vaf](https://github.com/d4rckh/vaf) - very advanced (web) fuzzer written in Nim.
+
+---
+
+## Exploitation
+
+### Command Injection
+
+- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool.
+
+### CORS Misconfiguration
+
+- [Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner
+- [CORStest](https://github.com/RUB-NDS/CORStest) - A simple CORS misconfiguration scanner
+- [cors-scanner](https://github.com/laconicwolf/cors-scanner) - A multi-threaded scanner that helps identify CORS flaws/misconfigurations
+- [CorsMe](https://github.com/Shivangx01b/CorsMe) - Cross Origin Resource Sharing MisConfiguration Scanner
+
+### CRLF Injection
+
+- [CRLFsuite](https://github.com/Nefcore/CRLFsuite) - A fast tool specially designed to scan CRLF injection
+- [crlfuzz](https://github.com/dwisiswant0/crlfuzz) - A fast tool to scan CRLF vulnerability written in Go
+- [CRLF-Injection-Scanner](https://github.com/MichaelStott/CRLF-Injection-Scanner) - Command line tool for testing CRLF injection on a list of domains.
+- [Injectus](https://github.com/BountyStrike/Injectus) - CRLF and open redirect fuzzer
+
+### CSRF Injection
+
+- [XSRFProbe](https://github.com/0xInfection/XSRFProbe) -The Prime Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit.
+
+### Directory Traversal
+
+- [dotdotpwn](https://github.com/wireghoul/dotdotpwn) - DotDotPwn - The Directory Traversal Fuzzer
+- [FDsploit](https://github.com/chrispetrou/FDsploit) - File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool.
+- [off-by-slash](https://github.com/bayotop/off-by-slash) - Burp extension to detect alias traversal via NGINX misconfiguration at scale.
+- [liffier](https://github.com/momenbasel/liffier) - tired of manually add dot-dot-slash to your possible path traversal? this short snippet will increment ../ on the URL.
+
+### File Inclusion
+
+- [liffy](https://github.com/mzfr/liffy) - Local file inclusion exploitation tool
+- [Burp-LFI-tests](https://github.com/Team-Firebugs/Burp-LFI-tests) - Fuzzing for LFI using Burpsuite
+- [LFI-Enum](https://github.com/mthbernardes/LFI-Enum) - Scripts to execute enumeration via LFI
+- [LFISuite](https://github.com/D35m0nd142/LFISuite) - Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner
+- [LFI-files](https://github.com/hussein98d/LFI-files) - Wordlist to bruteforce for LFI
+
+### GraphQL Injection
+
+- [inql](https://github.com/doyensec/inql) - InQL - A Burp Extension for GraphQL Security Testing
+- [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes.
+- [shapeshifter](https://github.com/szski/shapeshifter) - GraphQL security testing tool
+- [graphql_beautifier](https://github.com/zidekmat/graphql_beautifier) - Burp Suite extension to help make Graphql request more readable
+- [clairvoyance](https://github.com/nikitastupin/clairvoyance) - Obtain GraphQL API schema despite disabled introspection!
+
+### Header Injection
+
+- [headi](https://github.com/mlcsec/headi) - Customisable and automated HTTP header injection.
+
+### Insecure Deserialization
+
+- [ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+- [GadgetProbe](https://github.com/BishopFox/GadgetProbe) - Probe endpoints consuming Java serialized objects to identify classes, libraries, and library versions on remote Java classpaths.
+- [ysoserial.net](https://github.com/pwntester/ysoserial.net) - Deserialization payload generator for a variety of .NET formatters
+- [phpggc](https://github.com/ambionics/phpggc) - PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically.
+
+### Insecure Direct Object References
+
+- [Autorize](https://github.com/Quitten/Autorize) - Automatic authorization enforcement detection extension for burp suite written in Jython developed by Barak Tawily
+
+### Open Redirect
+
+- [Oralyzer](https://github.com/r0075h3ll/Oralyzer) - Open Redirection Analyzer
+- [Injectus](https://github.com/BountyStrike/Injectus) - CRLF and open redirect fuzzer
+- [dom-red](https://github.com/Naategh/dom-red) - Small script to check a list of domains against open redirect vulnerability
+- [OpenRedireX](https://github.com/devanshbatham/OpenRedireX) - A Fuzzer for OpenRedirect issues
+
+### Race Condition
+
+- [razzer](https://github.com/compsec-snu/razzer) - A Kernel fuzzer focusing on race bugs
+- [racepwn](https://github.com/racepwn/racepwn) - Race Condition framework
+- [requests-racer](https://github.com/nccgroup/requests-racer) - Small Python library that makes it easy to exploit race conditions in web apps with Requests.
+- [turbo-intruder](https://github.com/PortSwigger/turbo-intruder) - Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.
+- [race-the-web](https://github.com/TheHackerDev/race-the-web) - Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline.
+
+### Request Smuggling
+
+- [http-request-smuggling](https://github.com/anshumanpattnaik/http-request-smuggling) - HTTP Request Smuggling Detection Tool
+- [smuggler](https://github.com/defparam/smuggler) - Smuggler - An HTTP Request Smuggling / Desync testing tool written in Python 3
+- [h2csmuggler](https://github.com/BishopFox/h2csmuggler) - HTTP Request Smuggling over HTTP/2 Cleartext (h2c)
+- [tiscripts](https://github.com/defparam/tiscripts) - These scripts I use to create Request Smuggling Desync payloads for CLTE and TECL style attacks.
+
+### Server Side Request Forgery
+
+- [SSRFmap](https://github.com/swisskyrepo/SSRFmap) - Automatic SSRF fuzzer and exploitation tool
+- [Gopherus](https://github.com/tarunkant/Gopherus) - This tool generates gopher link for exploiting SSRF and gaining RCE in various servers
+- [ground-control](https://github.com/jobertabma/ground-control) - A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.
+- [SSRFire](https://github.com/micha3lb3n/SSRFire) - An automated SSRF finder. Just give the domain name and your server and chill! ;) Also has options to find XSS and open redirects
+- [httprebind](https://github.com/daeken/httprebind) - Automatic tool for DNS rebinding-based SSRF attacks
+- [ssrf-sheriff](https://github.com/teknogeek/ssrf-sheriff) - A simple SSRF-testing sheriff written in Go
+- [B-XSSRF](https://github.com/SpiderMate/B-XSSRF) - Toolkit to detect and keep track on Blind XSS, XXE & SSRF
+- [extended-ssrf-search](https://github.com/Damian89/extended-ssrf-search) - Smart ssrf scanner using different methods like parameter brute forcing in post and get...
+- [gaussrf](https://github.com/KathanP19/gaussrf) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl and Filter Urls With OpenRedirection or SSRF Parameters.
+- [ssrfDetector](https://github.com/JacobReynolds/ssrfDetector) - Server-side request forgery detector
+- [grafana-ssrf](https://github.com/RandomRobbieBF/grafana-ssrf) - Authenticated SSRF in Grafana
+- [sentrySSRF](https://github.com/xawdxawdx/sentrySSRF) - Tool to searching sentry config on page or in javascript files and check blind SSRF
+- [lorsrf](https://github.com/knassar702/lorsrf) - Bruteforcing on Hidden parameters to find SSRF vulnerability using GET and POST Methods
+- [singularity](https://github.com/nccgroup/singularity) - A DNS rebinding attack framework.
+- [whonow](https://github.com/brannondorsey/whonow) - A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53)
+- [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) - A front-end JavaScript toolkit for creating DNS rebinding attacks.
+- [dref](https://github.com/FSecureLABS/dref) - DNS Rebinding Exploitation Framework
+- [rbndr](https://github.com/taviso/rbndr) - Simple DNS Rebinding Service
+- [httprebind](https://github.com/daeken/httprebind) - Automatic tool for DNS rebinding-based SSRF attacks
+- [dnsFookup](https://github.com/makuga01/dnsFookup) - DNS rebinding toolkit
+- [surf](https://github.com/assetnote/surf) - Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
+
+### SQL Injection
+
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+- [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
+- [SQLiScanner](https://github.com/0xbug/SQLiScanner) - Automatic SQL injection with Charles and sqlmap api
+- [SleuthQL](https://github.com/RhinoSecurityLabs/SleuthQL) - Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.
+- [mssqlproxy](https://github.com/blackarrowsec/mssqlproxy) - mssqlproxy is a toolkit aimed to perform lateral movement in restricted environments through a compromised Microsoft SQL Server via socket reuse
+- [sqli-hunter](https://github.com/zt2/sqli-hunter) - SQLi-Hunter is a simple HTTP / HTTPS proxy server and a SQLMAP API wrapper that makes digging SQLi easy.
+- [waybackSqliScanner](https://github.com/ghostlulzhacks/waybackSqliScanner) - Gather urls from wayback machine then test each GET parameter for sql injection.
+- [ESC](https://github.com/NetSPI/ESC) - Evil SQL Client (ESC) is an interactive .NET SQL console client with enhanced SQL Server discovery, access, and data exfiltration features.
+- [mssqli-duet](https://github.com/Keramas/mssqli-duet) - SQL injection script for MSSQL that extracts domain users from an Active Directory environment based on RID bruteforcing
+- [burp-to-sqlmap](https://github.com/Miladkhoshdel/burp-to-sqlmap) - Performing SQLInjection test on Burp Suite Bulk Requests using SQLMap
+- [BurpSQLTruncSanner](https://github.com/InitRoot/BurpSQLTruncSanner) - Messy BurpSuite plugin for SQL Truncation vulnerabilities.
+- [andor](https://github.com/sadicann/andor) - Blind SQL Injection Tool with Golang
+- [Blinder](https://github.com/mhaskar/Blinder) - A python library to automate time-based blind SQL injection
+- [sqliv](https://github.com/the-robot/sqliv) - massive SQL injection vulnerability scanner
+- [nosqli](https://github.com/Charlie-belmer/nosqli) - NoSql Injection CLI tool, for finding vulnerable websites using MongoDB.
+- [ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
+
+### XSS Injection
+
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
+- [xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
+- [xsscrapy](https://github.com/DanMcInerney/xsscrapy) - XSS spider - 66/66 wavsep XSS detected
+- [sleepy-puppy](https://github.com/Netflix-Skunkworks/sleepy-puppy) - Sleepy Puppy XSS Payload Management Framework
+- [ezXSS](https://github.com/ssl/ezXSS) - ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site Scripting.
+- [xsshunter](https://github.com/mandatoryprogrammer/xsshunter) - The XSS Hunter service - a portable version of XSSHunter.com
+- [dalfox](https://github.com/hahwul/dalfox) - DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang
+- [xsser](https://github.com/epsylon/xsser) - Cross Site "Scripter" (aka XSSer) is an automatic -framework- to detect, exploit and report XSS vulnerabilities in web-based applications.
+- [XSpear](https://github.com/hahwul/XSpear) - Powerful XSS Scanning and Parameter analysis tool&gem
+- [weaponised-XSS-payloads](https://github.com/hakluke/weaponised-XSS-payloads) - XSS payloads designed to turn alert(1) into P1
+- [tracy](https://github.com/nccgroup/tracy) - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
+- [ground-control](https://github.com/jobertabma/ground-control) - A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.
+- [xssValidator](https://github.com/nVisium/xssValidator) - This is a burp intruder extender that is designed for automation and validation of XSS vulnerabilities.
+- [JSShell](https://github.com/Den1al/JSShell) - An interactive multi-user web JS shell
+- [bXSS](https://github.com/LewisArdern/bXSS) - bXSS is a utility which can be used by bug hunters and organizations to identify Blind Cross-Site Scripting.
+- [docem](https://github.com/whitel1st/docem) - Uility to embed XXE and XSS payloads in docx,odt,pptx,etc (OXML_XEE on steroids)
+- [XSS-Radar](https://github.com/bugbountyforum/XSS-Radar) - XSS Radar is a tool that detects parameters and fuzzes them for cross-site scripting vulnerabilities.
+- [BruteXSS](https://github.com/rajeshmajumdar/BruteXSS) - BruteXSS is a tool written in python simply to find XSS vulnerabilities in web application.
+- [findom-xss](https://github.com/dwisiswant0/findom-xss) - A fast DOM based XSS vulnerability scanner with simplicity.
+- [domdig](https://github.com/fcavallarin/domdig) - DOM XSS scanner for Single Page Applications
+- [femida](https://github.com/wish-i-was/femida) - Automated blind-xss search for Burp Suite
+- [B-XSSRF](https://github.com/SpiderMate/B-XSSRF) - Toolkit to detect and keep track on Blind XSS, XXE & SSRF
+- [domxssscanner](https://github.com/yaph/domxssscanner) - DOMXSS Scanner is an online tool to scan source code for DOM based XSS vulnerabilities
+- [xsshunter_client](https://github.com/mandatoryprogrammer/xsshunter_client) - Correlated injection proxy tool for XSS Hunter
+- [extended-xss-search](https://github.com/Damian89/extended-xss-search) - A better version of my xssfinder tool - scans for different types of xss on a list of urls.
+- [xssmap](https://github.com/Jewel591/xssmap) - XSSMap 是一款基于 Python3 开发用于检测 XSS 漏洞的工具
+- [XSSCon](https://github.com/menkrep1337/XSSCon) - XSSCon: Simple XSS Scanner tool
+- [BitBlinder](https://github.com/BitTheByte/BitBlinder) - BurpSuite extension to inject custom cross-site scripting payloads on every form/request submitted to detect blind XSS vulnerabilities
+- [XSSOauthPersistence](https://github.com/dxa4481/XSSOauthPersistence) - Maintaining account persistence via XSS and Oauth
+- [shadow-workers](https://github.com/shadow-workers/shadow-workers) - Shadow Workers is a free and open source C2 and proxy designed for penetration testers to help in the exploitation of XSS and malicious Service Workers (SW)
+- [rexsser](https://github.com/profmoriarity/rexsser) - This is a burp plugin that extracts keywords from response using regexes and test for reflected XSS on the target scope.
+- [xss-flare](https://github.com/EgeBalci/xss-flare) - XSS hunter on cloudflare serverless workers.
+- [Xss-Sql-Fuzz](https://github.com/jiangsir404/Xss-Sql-Fuzz) - burpsuite 插件对GP所有参数(过滤特殊参数)一键自动添加xss sql payload 进行fuzz
+- [vaya-ciego-nen](https://github.com/hipotermia/vaya-ciego-nen) - Detect, manage and exploit Blind Cross-site scripting (XSS) vulnerabilities.
+- [dom-based-xss-finder](https://github.com/AsaiKen/dom-based-xss-finder) - Chrome extension that finds DOM based XSS vulnerabilities
+- [XSSTerminal](https://github.com/machinexa2/XSSTerminal) - Develop your own XSS Payload using interactive typing
+- [xss2png](https://github.com/vavkamil/xss2png) - PNG IDAT chunks XSS payload generator
+- [XSSwagger](https://github.com/vavkamil/XSSwagger) - A simple Swagger-ui scanner that can detect old versions vulnerable to various XSS attacks
+
+### XXE Injection
+
+- [ground-control](https://github.com/jobertabma/ground-control) - A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.
+- [dtd-finder](https://github.com/GoSecure/dtd-finder) - List DTDs and generate XXE payloads using those local DTDs.
+- [docem](https://github.com/whitel1st/docem) - Uility to embed XXE and XSS payloads in docx,odt,pptx,etc (OXML_XEE on steroids)
+- [xxeserv](https://github.com/staaldraad/xxeserv) - A mini webserver with FTP support for XXE payloads
+- [xxexploiter](https://github.com/luisfontes19/xxexploiter) - Tool to help exploit XXE vulnerabilities
+- [B-XSSRF](https://github.com/SpiderMate/B-XSSRF) - Toolkit to detect and keep track on Blind XSS, XXE & SSRF
+- [XXEinjector](https://github.com/enjoiz/XXEinjector) - Tool for automatic exploitation of XXE vulnerability using direct and different out of band methods.
+- [oxml_xxe](https://github.com/BuffaloWill/oxml_xxe) - A tool for embedding XXE/XML exploits into different filetypes
+- [metahttp](https://github.com/vp777/metahttp) - A bash script that automates the scanning of a target network for HTTP resources through XXE
+
+### SSTI Injection
+- [tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+- [SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
+
+---
+
+## Miscellaneous
+
+### Passwords
+
+- [thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - Hydra is a parallelized login cracker which supports numerous protocols to attack.
+- [DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password
+- [changeme](https://github.com/ztgrace/changeme) - A default credential scanner.
+- [BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
+- [patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
+
+### Secrets
+
+- [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy
+- [truffleHog](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [gitGraber](https://github.com/hisxo/gitGraber) - gitGraber: monitor GitHub to search and find sensitive data in real time for different online services
+- [talisman](https://github.com/thoughtworks/talisman) - By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.
+- [GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
+- [git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
+- [github-search](https://github.com/gwen001/github-search) - Tools to perform basic search on GitHub.
+- [git-vuln-finder](https://github.com/cve-search/git-vuln-finder) - Finding potential software vulnerabilities from git commit messages
+- [commit-stream](https://github.com/x1sec/commit-stream) - #OSINT tool for finding Github repositories by extracting commit logs in real time from the Github event API
+- [gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
+- [repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
+- [GitMiner](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github
+- [shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find GitHub secrets in real time
+- [detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+- [rusty-hog](https://github.com/newrelic/rusty-hog) - A suite of secret scanners built in Rust for performance. Based on TruffleHog
+- [whispers](https://github.com/Skyscanner/whispers) - Identify hardcoded secrets and dangerous behaviours
+- [yar](https://github.com/nielsing/yar) - Yar is a tool for plunderin' organizations, users and/or repositories.
+- [dufflebag](https://github.com/BishopFox/dufflebag) - Search exposed EBS volumes for secrets
+- [secret-bridge](https://github.com/duo-labs/secret-bridge) - Monitors Github for leaked secrets
+- [earlybird](https://github.com/americanexpress/earlybird) - EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
+- [Trufflehog-Chrome-Extension](https://github.com/trufflesecurity/Trufflehog-Chrome-Extension) - Trufflehog-Chrome-Extension
+- [noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
+- [GitHound](https://github.com/tillson/git-hound) - Recon tool leveraging Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs. Support for GitHub dorks.
+- [cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...
+- [SecretFinder](https://github.com/m4ll0k/SecretFinder) - A python script for finding sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files.
+- [js-snitch](https://github.com/vavkamil/js-snitch) - Scans remote JavaScript files with Trufflehog + Semgrep to detect leaked secrets.
+- [keyhacks](https://github.com/streaak/keyhacks) - KeyHacks shows methods to validate different API keys found on a Bug Bounty Program or a pentest.
+
+
+### Git
+
+- [GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
+- [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites
+- [git-dumper](https://github.com/arthaud/git-dumper) - A tool to dump a git repository from a website
+- [GitHunter](https://github.com/digininja/GitHunter) - A tool for searching a Git repository for interesting content
+- [dvcs-ripper](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG...
+- [Gato (Github Attack TOolkit)](https://github.com/praetorian-inc/gato) - GitHub Self-Hosted Runner Enumeration and Attack Tool 
+- [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis tool for GitHub Actions 
+
+### Buckets
+
+- [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open AWS S3 buckets and dump the contents
+- [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets
+- [CloudScraper](https://github.com/jordanpotti/CloudScraper) - CloudScraper: Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
+- [s3viewer](https://github.com/SharonBrizinov/s3viewer) - Publicly Open Amazon AWS S3 Bucket Viewer
+- [festin](https://github.com/cr0hn/festin) - FestIn - S3 Bucket Weakness Discovery
+- [s3reverse](https://github.com/hahwul/s3reverse) - The format of various s3 buckets is convert in one format. for bugbounty and security testing.
+- [mass-s3-bucket-tester](https://github.com/random-robbie/mass-s3-bucket-tester) - This tests a list of s3 buckets to see if they have dir listings enabled or if they are uploadable
+- [S3BucketList](https://github.com/AlecBlance/S3BucketList) - Firefox plugin that lists Amazon S3 Buckets found in requests
+- [dirlstr](https://github.com/cybercdh/dirlstr) - Finds Directory Listings or open S3 buckets from a list of URLs
+- [Burp-AnonymousCloud](https://github.com/codewatchorg/Burp-AnonymousCloud) - Burp extension that performs a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities
+- [kicks3](https://github.com/abuvanth/kicks3) - S3 bucket finder from html,js and bucket misconfiguration testing tool
+- [2tearsinabucket](https://github.com/Revenant40/2tearsinabucket) - Enumerate s3 buckets for a specific target.
+- [s3_objects_check](https://github.com/nccgroup/s3_objects_check) - Whitebox evaluation of effective S3 object permissions, to identify publicly accessible files.
+- [s3tk](https://github.com/ankane/s3tk) - A security toolkit for Amazon S3
+- [CloudBrute](https://github.com/0xsha/CloudBrute) - Awesome cloud enumerator
+- [s3cario](https://github.com/0xspade/s3cario) - This tool will get the CNAME first if it's a valid Amazon s3 bucket and if it's not, it will try to check if the domain is a bucket name.
+- [S3Cruze](https://github.com/JR0ch17/S3Cruze) - All-in-one AWS S3 bucket tool for pentesters.
+
+### CMS
+
+- [wpscan](https://github.com/wpscanteam/wpscan) - WPScan is a free, for non-commercial use, black box WordPress security scanner
+- [WPSpider](https://github.com/cyc10n3/WPSpider) - A centralized dashboard for running and scheduling WordPress scans powered by wpscan utility.
+- [wprecon](https://github.com/blackcrw/wprecon) - Wordpress Recon
+- [CMSmap](https://github.com/Dionach/CMSmap) -  CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
+- [joomscan](https://github.com/OWASP/joomscan) - OWASP Joomla Vulnerability Scanner Project
+- [pyfiscan](https://github.com/fgeek/pyfiscan) - Free web-application vulnerability and version scanner
+- [aemhacker](https://github.com/0ang3el/aem-hacker) - Tools to identify vulnerable Adobe Experience Manager (AEM) webapps.
+- [aemscan](https://github.com/Raz0r/aemscan) - Adobe Experience Manager Vulnerability Scanner
+
+
+### JSON Web Token
+
+- [jwt_tool](https://github.com/ticarpi/jwt_tool) - A toolkit for testing, tweaking and cracking JSON Web Tokens
+- [c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) - JWT brute force cracker written in C
+- [jwt-heartbreaker](https://github.com/wallarm/jwt-heartbreaker) - The Burp extension to check JWT (JSON Web Tokens) for using keys from known from public sources
+- [jwtear](https://github.com/KINGSABRI/jwtear) - Modular command-line tool to parse, create and manipulate JWT tokens for hackers
+- [jwt-key-id-injector](https://github.com/dariusztytko/jwt-key-id-injector) - Simple python script to check against hypothetical JWT vulnerability.
+- [jwt-hack](https://github.com/hahwul/jwt-hack) - jwt-hack is tool for hacking / security testing to JWT.
+- [jwt-cracker](https://github.com/lmammino/jwt-cracker) - Simple HS256 JWT token brute force cracker
+
+### postMessage
+
+- [postMessage-tracker](https://github.com/fransr/postMessage-tracker) - A Chrome Extension to track postMessage usage (url, domain and stack) both by logging using CORS and also visually as an extension-icon
+- [PostMessage_Fuzz_Tool](https://github.com/kiranreddyrebel/PostMessage_Fuzz_Tool) - #BugBounty #BugBounty Tools #WebDeveloper Tool
+
+### Subdomain Takeover
+
+- [subjack](https://github.com/haccer/subjack) - Subdomain Takeover tool written in Go
+- [SubOver](https://github.com/Ice3man543/SubOver) - A Powerful Subdomain Takeover Tool
+- [autoSubTakeover](https://github.com/JordyZomer/autoSubTakeover) - A tool used to check if a CNAME resolves to the scope address. If the CNAME resolves to a non-scope address it might be worth checking out if subdomain takeover is possible.
+- [NSBrute](https://github.com/shivsahni/NSBrute) - Python utility to takeover domains vulnerable to AWS NS Takeover
+- [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+- [cnames](https://github.com/cybercdh/cnames) - take a list of resolved subdomains and output any corresponding CNAMES en masse.
+- [subHijack](https://github.com/vavkamil/old-repos-backup/tree/master/subHijack-master) - Hijacking forgotten & misconfigured subdomains
+- [tko-subs](https://github.com/anshumanbh/tko-subs) - A tool that can help detect and takeover subdomains with dead DNS records
+- [HostileSubBruteforcer](https://github.com/nahamsec/HostileSubBruteforcer) - This app will bruteforce for existing subdomains and provide information if the 3rd party host has been properly setup.
+- [second-order](https://github.com/mhmdiaa/second-order) - Second-order subdomain takeover scanner
+- [takeover](https://github.com/mzfr/takeover) - A tool for testing subdomain takeover possibilities at a mass scale.
+- [dnsReaper](https://github.com/punk-security/dnsReaper) - DNS Reaper is yet another sub-domain takeover tool, but with an emphasis on accuracy, speed and the number of signatures in our arsenal!
+- [subzy](https://github.com/PentestPad/subzy) - Subdomain takeover tool which works based on matching response fingerprints from `can-i-take-over-xyz`.
+
+### Vulnerability Scanners
+
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts
+- [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+- [nikto](https://github.com/sullo/nikto) - Nikto web server scanner
+- [arachni](https://github.com/Arachni/arachni) - Web Application Security Scanner Framework
+- [jaeles](https://github.com/jaeles-project/jaeles) - The Swiss Army knife for automated Web Application Testing
+- [retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities
+- [Osmedeus](https://github.com/j3ssie/Osmedeus) - Fully automated offensive security framework for reconnaissance and vulnerability scanning
+- [getsploit](https://github.com/vulnersCom/getsploit) - Command line utility for searching and downloading exploits
+- [flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
+- [Findsploit](https://github.com/1N3/Findsploit) - Find exploits in local and online databases instantly
+- [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
+- [backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner) - Finds unknown classes of injection vulnerabilities
+- [Eagle](https://github.com/BitTheByte/Eagle) - Multithreaded Plugin based vulnerability scanner for mass detection of web-based applications vulnerabilities
+- [cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more...
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) -  World’s most popular free web security tools and is actively maintained by a dedicated international team of volunteers
+- [SSTImap](https://github.com/vladko312/SSTImap) -  SSTImap is a penetration testing software that can check websites for Code Injection and Server-Side Template Injection vulnerabilities and exploit them, giving access to the operating system itself.
+- [Lonkero](https://github.com/bountyyfi/lonkero) - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
+
+### Forbidden Bypass
+
+- [XFFenum](https://github.com/vavkamil/XFFenum) - A simple tool to bypass 403 forbidden end-points behind load balancers (Cloudflare) based on X-Forwarded-For header.
+- [NoMore403](https://github.com/devploit/nomore403) - Advanced tool for security researchers to bypass 403/40X restrictions through smart techniques and adaptive request manipulation.
+- [Forbidden Buster](https://github.com/Sn1r/Forbidden-Buster) - A tool designed to automate various techniques in order to bypass HTTP 401 and 403 response codes and gain access to unauthorized areas in the system.
+
+### Permutation
+
+- [alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL. alterx takes patterns as input and generates subdomain permutation wordlist based on that pattern.
+- [gotator](https://github.com/Josue87/gotator) - Gotator is a tool to generate DNS wordlists through permutations.
+- [ripgen](https://github.com/resyncgg/ripgen) - Rust-based high performance domain permutation generator.
+- [dnsgen](https://github.com/AlephNullSK/dnsgen) - DNSGen is a powerful and flexible DNS name permutation tool designed for security researchers and penetration testers. It generates intelligent domain name variations to assist in subdomain discovery and security assessments.
+- [goaltdns](https://github.com/subfinder/goaltdns) - A permutation generation tool written in golang.
+- [altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them.
+
+### Web Proxy and Traffic Interception
+
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+- [FoxyProxy Browser Extension](https://github.com/foxyproxy/browser-extension) - FoxyProxy is an open-source, advanced proxy management tool that completely replaces Chrome's limited proxying capabilities.
+- [zaproxy](https://github.com/zaproxy/zaproxy) - ZAP is what is known as a “manipulator-in-the-middle proxy.” It stands between the tester’s browser and the web application so that it can intercept and inspect messages sent between browser and web application, modify the contents if needed, and then forward those packets on to the destination.
+
+### Origin IP
+
+- [CloudRip](https://github.com/staxsum/CloudRip) - A tool that helps you find the real IP addresses hiding behind Cloudflare by checking subdomains.
+- [hakoriginfinder](https://github.com/hakluke/hakoriginfinder) - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing WAFs and other reverse proxies.
+ 
+### Useful
+
+- [anew](https://github.com/tomnomnom/anew) -  A tool for adding new lines to files, skipping duplicates 
+- [gf](https://github.com/tomnomnom/gf) -  A wrapper around grep, to help you grep for things 
+- [uro](https://github.com/s0md3v/uro) -  declutters url lists for crawling/pentesting 
+- [unfurl](https://github.com/tomnomnom/unfurl) -  Pull out bits of URLs provided on stdin 
+- [qsreplace](https://github.com/tomnomnom/qsreplace) -  Accept URLs on stdin, replace all query string values with a user-supplied value 
+
+### Uncategorized
+
+- [RF Swift](https://github.com/PentHertz/RF-Swift) - A powerful multi-platform RF toolbox that deploys specialized radio tools in seconds on Linux, Windows, and macOS—supporting x86_64, ARM64 (Raspberry Pi, Apple Silicon), and RISC-V architectures without disrupting your primary OS.
+- [JSONBee](https://github.com/zigoo0/JSONBee) - A ready to use JSONP endpoints/payloads to help bypass content security policy (CSP) of different websites.
+- [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [bountyplz](https://github.com/fransr/bountyplz) - Automated security reporting from markdown templates (HackerOne and Bugcrowd are currently the platforms supported)
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports
+- [android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
+- [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff.
+- [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) - Awesome Vulnerable Applications
+- [httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+- [csprecon](https://github.com/edoardottt/csprecon) - Discover new target domains using Content Security Policy 
+- [SecLists](https://github.com/danielmiessler/SecLists) - It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+- [interactsh](https://github.com/projectdiscovery/interactsh) - Interactsh is an open-source tool for detecting out-of-band interactions. It is a tool designed to detect vulnerabilities that cause external interactions.
+- [asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information.
+- [mapcidr](https://github.com/projectdiscovery/mapcidr) - Utility program to perform multiple operations for a given subnet/CIDR ranges.
+- [tlsx](https://github.com/projectdiscovery/tlsx) - A fast and configurable TLS grabber focused on TLS based data collection and analysis.
+- [CSPBypass](https://github.com/renniepak/CSPBypass) - a tool designed to help bypass restrictive Content Security Policies (CSP) and exploit XSS (Cross-Site Scripting) vulnerabilities on sites where injections are blocked by CSPs that only allow certain whitelisted domains.
+- [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
+- [Bypass bot detection](https://github.com/portswigger/bypass-bot-detection) - Burp Suite extension that mutates ciphers to bypass TLS-fingerprint based bot detection.
+- [uncover](https://github.com/projectdiscovery/uncover) - uncover is a go wrapper using APIs of well known search engines to quickly discover exposed hosts on the internet.
+- [cvemap](https://github.com/projectdiscovery/cvemap) - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
+- [notify](https://github.com/projectdiscovery/notify) - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
+- [cut-cdn](https://github.com/ImAyrix/cut-cdn) - Removing CDN IPs from the list of IP addresses.
+- [MurMurHash](https://github.com/Viralmaniar/MurMurHash) - This little tool is to calculate a MurmurHash value of a favicon. This favicon hash can be used to look for similar websites on various search engines.
+- [hakip2host](https://github.com/hakluke/hakip2host) - hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.
+- [jsmon](https://github.com/robre/jsmon) - A Javascript change monitoring tool for Bug Bounty.
+- [related-domains](https://github.com/gwen001/related-domains) - Find related domains of a given domain. this tool search for domains that have been registered by the same peoples/companies.
+
+---
 
 To the extent possible under law, [Dheeraj Joshi](https://github.com/djadmin) has waived all copyright and related or neighboring rights to this work.
